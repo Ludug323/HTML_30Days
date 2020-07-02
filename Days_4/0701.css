@@ -1,0 +1,19 @@
+*{
+    margin: 10px;
+    padding: 0;
+    border: 1px solid red;
+}
+.hOne_line{
+    font-size: 40px;
+    color: #ccc;
+}
+.p_line{
+    display: inline-block;
+}
+p{
+    font-size: 30px;
+    color: red; 
+}
+h2{
+    border: 1px solid blueviolet;
+}
